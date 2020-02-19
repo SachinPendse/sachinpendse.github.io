@@ -1,0 +1,31 @@
+---
+title: "About Me"
+weight: 8
+---
+
+#### The Paths We Take
+When I was younger, I would often find people that I thought were interesting and would read everything I could to find out more about where they came from, and the path they took to get to where they are now. Of particular interest for me (an Indian-American kid more interested in psychology and anthropology than engineering or medicine) were people who had unconventional interests or took unconventional paths to where they are. That said, especially in the early days of my Internet use (mid-2000s), it was often the case that those paths were somewhat opaque. In an effort to make the paths I've taken and the paths I will take more transparent, I have this more extended section about myself. And if there's something you're curious about that I haven't mentioned here, feel free to [ask](/#contact).     
+
+#### My Childhood
+Like my [favorite extraterrestrial being](https://en.wikipedia.org/wiki/Superman), I too was born in Kansas (though I've only ever achieved flight via an airplane). Born in Wichita, I grew up quite fond of bike rides around Eagle Lake, late night banana splits at Braum's, and drives through Kansas, from one debate tournament to the next. I am also the son of two very sweet and nice people from Hyderabad (in India), who emigrated to Kansas in the 1980s. Unlike most from Hyderabad, their home language was Marathi, and I grew up hearing it and Hindi (the latter primarily through Bollywood, the reason why I can beat most anyone in [antakshari](https://en.wikipedia.org/wiki/Antakshari)). **I feel immensely lucky to have been born in Wichita and to be Indian-American --- I believe both are some of my life's greatest blessings.**
+
+#### My Education 
+I am a proud graduate of [Wichita High School East](https://www.usd259.org/east). After graduating from high school in Wichita, I went to college at Brown University with the intention to concentrate (Brown's fancy way of saying "major") in International Relations and potentially religious studies, anthropology, or psychology. I started college in the Fall of 2013, with a particular interest in the different ways that marginalized communities used technology to organize and better advocate for their needs, such as in the case of the Arab Spring or Black Lives Matter. At a more high level, I was curious about the different factors that keep people from feeling free and joyful, and wanted to study how technology might hedge against these structural factors that prevented people from both living well and dreaming big. Starting out, I envisioned myself eventually working abroad for a couple years after finishing undergrad, and then applying to PhD programs in Political Science. 
+
+A couple different things happened that slightly changed that trajectory. 
+
+At the relatively mild insistence of my parents, I decided to take an introductory computer science class. I did not do well in that class --- in fact, I almost did not pass the class. But I felt challenged, and told myself that I would keep taking classes in computer science until I didn't pass a class, and I ended up completing the concentration, finding a love of passively listening to upbeat music and coding, and (most valuably) making some of the most wonderful friends I could have dreamt of. Through participating in research in the [Brown HCI lab](https://hci.cs.brown.edu/) (advised by [Jeff Huang](https://jeffhuang.com/) and [Nicole Nugent](https://vivo.brown.edu/display/nnugent)), I also found an interest in understanding how people use technology and analyzing social media. 
+
+Additionally, [as is not uncommon during college](https://www.vice.com/en_us/article/xd7g44/why-mental-health-disorders-emerge-in-your-early-20s-58477fa6e17bea0210307264), I met people with incredibly diverse experiences of mental distress and illness, and became really passionate about the extent to which structural and political factors make the world a difficult place for people with mental health issues to thrive. In what felt like a return to the themes I began college passionate about, I began to take classes about mental health (including one particularly influential one called _Anthropology of Mental Health_, taught by [Bhrigupati Singh](https://watson.brown.edu/southasia/people/bhrigupati-singh)), started organizing via [Project LETS](https://www.letserasethestigma.com/) to make Brown a safer and happier place for students experiencing mental health issues ([particularly within the computer science department](https://www.browndailyherald.com/2017/11/14/cs-department-pilots-student-wellness-position/)), and started doing [research around technology and mental health](https://sochiatrist.cs.brown.edu/).
+
+After my time at Brown, I spent a year in Bangalore as a part of the [Technology in Emerging Markets group at Microsoft Research](https://www.microsoft.com/en-us/research/group/technology-for-emerging-markets/), advised by [Amit Sharma](http://www.amitsharma.in/), studying the  ways that identity-based factors influence how people experience their mental health and what mental healthcare they are able to access. This work eventually coalesced around a project I work on in collaboration with [Befrienders India](http://befriendersindia.net/), the creation of a national mental health helpline for India. You can read more about this work [here](/mhhs_in_india/). 
+
+After my year in India, I began my PhD (advised by [Munmun De Choudhury](http://www.munmund.net/) and [Neha Kumar](https://www.nehakumar.org/)) in Human-Centered Computing at Georgia Tech. As a child, Atlanta was the first really big city I had ever been to. During sporadic family visits over the years, I remember daydreaming about eventually living here. Now, 21 years after I first visited, I actually do.
+                           
+#### My Passions 
+I am passionate about mental health, cooking (especially regional Indian and Cajun cuisine), and [music](/musiciminto). I'm also not a bad skateboarder, but primarily for transportation and not tricks.  
+
+#### People I Massively Look Up To 
+* [Mariam Asad](http://homes.lmc.gatech.edu/~masad3/)
+* [Stëfanie Lyn Kaufman-Mthimkhulu](https://www.letserasethestigma.com/meet-our-team)
+* [Mr. Rogers](https://www.brainyquote.com/quotes/fred_rogers_389000)
