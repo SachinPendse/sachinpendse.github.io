@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ah yes, my CV... on Sachin Pendse</title>
-    <link>http://sachinpendse.in/cv/</link>
+    <link>https://sachinpendse.in/cv/</link>
     <description>Recent content in Ah yes, my CV... on Sachin Pendse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Feb 2020 16:49:32 -0500</lastBuildDate>
     
-	<atom:link href="http://sachinpendse.in/cv/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sachinpendse.in/cv/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
